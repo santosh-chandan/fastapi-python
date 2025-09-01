@@ -1,5 +1,5 @@
 BlogAPI/
-│── requirements.txt       # ✅ Dependencies for the project
+│── requirements.txt       # Dependencies for the project
 │── .env                   # Environment variables (DB_URL, SECRET_KEY, etc.)
 │── alembic.ini            # Alembic migrations config (if using SQLAlchemy)
 │── README.md              # Documentation
