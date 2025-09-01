@@ -1,0 +1,86 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+__pycache__
+*__pycache__*
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.log
+*.pot
+*.pyc
+*.mypy_cache/
+*.pytest_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+# --------------------
+# Virtualenv
+# --------------------
+venv/
+ENV/
+env/
+.venv/
+# *.env
+# .env.*
+
+# --------------------
+# IDE / Editor
+# --------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# --------------------
+# Distribution / Packaging
+# --------------------
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# --------------------
+# FastAPI / Uvicorn
+# --------------------
+*.db
+*.sqlite3
+*.sqlite
+*.pid
+*.log
+
+# --------------------
+# Docker
+# --------------------
+*.pid
+*.seed
+*.pid.lock
+docker-compose.override.yml
+
+# --------------------
+# OS
+# --------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
